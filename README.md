@@ -13,7 +13,7 @@
 
 **🏠 Here are other places too:**
 
-[![My server](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20DuckBot%20Hideout)](https://discord.gg/TdRfGKg8Wh) [![My User](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=My%20User:%20LeoCx1000%239999)](https://discordapp.com/users/788278464474120202/)
+[![My server](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20server:%20Duck%20Hideout)](https://discord.gg/TdRfGKg8Wh) [![My User](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=My%20User:%20LeoCx1000%239999)](https://discordapp.com/users/788278464474120202/)
 
 
 <img alt="Jaime's GitHub Stats" height="156em" src="https://github-readme-stats.vercel.app/api?username=LeoCx1000&bg_color=30,e96443,4839a3&title_color=79D9F9&text_color=79D9F9&show_icons=true&theme=dracula">
