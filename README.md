@@ -2,7 +2,7 @@
 
 ### Currently working on:
 - My discord bot, [DuckBot💞](https://top.gg/bot/788278464474120202 "DuckBot on top.gg")
-- My other bots, also found in [my bots repo](https://github.com/LeoCx1000/discord-bots "discord-bots repo") 😊
+
 ### :coffee: Wanna chat?
 
 **📲 Contact me on Discord:**
