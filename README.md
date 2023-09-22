@@ -1,14 +1,10 @@
-# Hello, I'm Leo!
+# Hello, I'm Leo
 
-### Currently working on:
-- My discord bot, [DuckBot💞](https://top.gg/bot/788278464474120202 "DuckBot on top.gg")
-- Learning Web Development.
-- Enrolling in a university (soon?)
+### Currently, I am
+- Studying at University of Pisa.
+- Learning html+css, ever so slowly...
 
 ### :coffee: Wanna chat?
 
-
-
-[![My server](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%235865f2&label=&message=Join%20my%20Discord%20server:%20Duck%20Hideout)](https://discord.gg/TdRfGKg8Wh)
-
-Or email me: LeoCx1000@gmail.com
+[![Static Badge](https://img.shields.io/badge/my_guild-5865f2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/TdRfGKg8Wh)
+[![Static Badge](https://img.shields.io/badge/LeoCx1000%40gmail.com-f2a60c?style=for-the-badge&logo=gmail&logoColor=c71610)](mailto:leocx1000@gmail.com)
